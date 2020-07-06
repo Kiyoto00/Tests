@@ -1,0 +1,10 @@
+C:\Users\Anastasiya\Desktop\konoplev\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Anastasiya\Desktop\konoplev\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Anastasiya\Desktop\konoplev\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Anastasiya\Desktop\konoplev\ConsoleApp2\bin\Debug\ExchangeProvider.dll
+C:\Users\Anastasiya\Desktop\konoplev\ConsoleApp2\bin\Debug\ExchangeProvider.pdb
+C:\Users\Anastasiya\Desktop\konoplev\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Anastasiya\Desktop\konoplev\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiya\Desktop\konoplev\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Anastasiya\Desktop\konoplev\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Anastasiya\Desktop\konoplev\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

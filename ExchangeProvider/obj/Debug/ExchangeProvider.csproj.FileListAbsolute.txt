@@ -1,0 +1,6 @@
+C:\Users\Anastasiya\Desktop\konoplev\ExchangeProvider\bin\Debug\ExchangeProvider.dll
+C:\Users\Anastasiya\Desktop\konoplev\ExchangeProvider\bin\Debug\ExchangeProvider.pdb
+C:\Users\Anastasiya\Desktop\konoplev\ExchangeProvider\obj\Debug\ExchangeProvider.csprojAssemblyReference.cache
+C:\Users\Anastasiya\Desktop\konoplev\ExchangeProvider\obj\Debug\ExchangeProvider.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiya\Desktop\konoplev\ExchangeProvider\obj\Debug\ExchangeProvider.dll
+C:\Users\Anastasiya\Desktop\konoplev\ExchangeProvider\obj\Debug\ExchangeProvider.pdb

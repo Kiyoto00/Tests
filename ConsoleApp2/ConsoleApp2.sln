@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2.csproj", "{0B045BF1-1981-4911-A8FA-E16CB4748FFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeProvider", "..\ExchangeProvider\ExchangeProvider.csproj", "{EEC10AD4-1637-4FAC-96E0-D9DFD9986F03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangerTest", "..\ExchangerTest\ExchangerTest.csproj", "{CFEC8785-917A-446A-B252-6E9F5B0391AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B045BF1-1981-4911-A8FA-E16CB4748FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B045BF1-1981-4911-A8FA-E16CB4748FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B045BF1-1981-4911-A8FA-E16CB4748FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B045BF1-1981-4911-A8FA-E16CB4748FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC10AD4-1637-4FAC-96E0-D9DFD9986F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC10AD4-1637-4FAC-96E0-D9DFD9986F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC10AD4-1637-4FAC-96E0-D9DFD9986F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC10AD4-1637-4FAC-96E0-D9DFD9986F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFEC8785-917A-446A-B252-6E9F5B0391AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEC8785-917A-446A-B252-6E9F5B0391AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEC8785-917A-446A-B252-6E9F5B0391AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFEC8785-917A-446A-B252-6E9F5B0391AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AD8FC3D-636F-409E-A5AD-3C4959FC7741}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/nastya-palc0265
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ConsoleApp2.csproj
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = ..\\ExchangeProvider\\ExchangeProvider.csproj
+		SccProjectName2 = ../ExchangeProvider
+		SccLocalPath2 = ..\\ExchangeProvider
+		SccProjectUniqueName3 = ..\\ExchangerTest\\ExchangerTest.csproj
+		SccProjectName3 = ../ExchangerTest
+		SccLocalPath3 = ..\\ExchangerTest
+	EndGlobalSection
+EndGlobal
